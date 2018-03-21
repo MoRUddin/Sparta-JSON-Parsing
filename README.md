@@ -5,9 +5,11 @@ To create a class that will read and parse a JSON file, defining methods to make
 
 ## JSON structure
 mockaroo >
-{first_name,
+
+first_name,
 last_name,
-favourite > }
+favourite >
+
 {country,
 number,
 animals}
