@@ -33,3 +33,10 @@ def fav_num(x)
   nums[x-1]
 end
 ```
+
+## Requirements
+* Ruby (built in 5.1.5)
+* rspec
+
+## How to run tests
+run `rspec` on the project folder
