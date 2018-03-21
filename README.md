@@ -4,6 +4,7 @@
 To create a class that will read and parse a JSON file, defining methods to make it testable.
 
 ## JSON structure
+![structure](./img/JSON_structure.png)
 
 
 ## Example method
@@ -28,9 +29,11 @@ end
 
 ## Requirements
 * Ruby (built in 5.1.5)
-* rspec
+* The rspec gem
+* The JSON gem
 
 ## How to run tests
 * `git clone` the HTML link from [here](https://github.com/MoRUddin/Sparta-JSON-Parsing) to download the project to your local environment
 * run `gem install rspec` if rspec is not already installed
+* run `gem install json` if json is not already installed
 * run `rspec` on the project folder to run the tests
